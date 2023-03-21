@@ -1,0 +1,9 @@
+Daily:
+
+1. https://rekt.news/
+2. https://news.ycombinator.com/
+
+
+Pending: 
+
+1. https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a
